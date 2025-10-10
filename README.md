@@ -85,7 +85,8 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 [Visit my Medium profile for latest articles](https://medium.com/@pradhanmesh88)
+- 🚀 [Travel Inquiry System Architecture](https://medium.com/@pradhanmesh88/travel-inquiry-system-architecture-ba27610632ad)
+- 📝 [Visit my Medium profile for more articles](https://medium.com/@pradhanmesh88)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 Achievements & Certifications
