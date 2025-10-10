@@ -57,6 +57,28 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithramesh-pradhan&repo=travelease-infra-cdk&theme=react)](https://github.com/codewithramesh-pradhan/travelease-infra-cdk)
 
+### 🏥 [Tech Health CDK](https://github.com/codewithramesh-pradhan/tech-health-cdk)
+**HIPAA-compliant healthcare API infrastructure**
+- 🏥 **Healthcare Focused** with HIPAA compliance and data encryption
+- 🔐 **Cognito Authentication** with role-based access control
+- 🛡️ **WAF Protection** and comprehensive security measures
+- 📈 **Production Ready** with monitoring and alerting
+
+**Tech Stack:** `AWS CDK` `TypeScript` `Cognito` `DynamoDB` `WAF` `KMS`
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithramesh-pradhan&repo=tech-health-cdk&theme=react)](https://github.com/codewithramesh-pradhan/tech-health-cdk)
+
+### 🔐 [AWS IAM CloudFormation](https://github.com/codewithramesh-pradhan/aws-iam-cloudformation)
+**Enterprise zero-trust security architecture**
+- 🛡️ **Zero-Trust Architecture** with comprehensive IAM implementation
+- 👥 **Role-Based Access Control** for enterprise environments
+- 📋 **CloudFormation Templates** for repeatable deployments
+- 🔒 **Security Best Practices** following AWS Well-Architected Framework
+
+**Tech Stack:** `CloudFormation` `IAM` `RBAC` `Zero-Trust` `Security`
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithramesh-pradhan&repo=aws-iam-cloudformation&theme=react)](https://github.com/codewithramesh-pradhan/aws-iam-cloudformation)
+
 ## 📊 GitHub Stats
 
 <div align="center">
