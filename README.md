@@ -115,7 +115,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 
 ## 🏅 Achievements & Certifications
 
-- 🏆 **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a3ff9288-df94-499d-9bdc-a35eaa47a83)**
+- 🏆 **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a3ff9288-df94-499d-9bdc-a35eaa47a837/linked_in_profile)**
 - 🏆 **[AWS Certified Developer – Associate](https://www.credly.com/badges/bff324d8-db60-4fd6-91a7-6d1fcdc69e0c/linked_in_profile)**
 - 📜 **Other relevant certifications**
 
