@@ -85,9 +85,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Building a Serverless Travel Inquiry System with AWS CDK](https://medium.com/@pradhanmesh88)
-- ⚡ [AWS CDK Best Practices for Production Workloads](https://medium.com/@pradhanmesh88)
-- 🔒 [Implementing Security-First Serverless Architecture](https://medium.com/@pradhanmesh88)
+- 📝 [Visit my Medium profile for latest articles](https://medium.com/@pradhanmesh88)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 Achievements & Certifications
