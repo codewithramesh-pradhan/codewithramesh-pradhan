@@ -85,9 +85,9 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Building a Serverless Travel Inquiry System with AWS CDK](https://medium.com/@your-handle)
-- ⚡ [AWS CDK Best Practices for Production Workloads](https://medium.com/@your-handle)
-- 🔒 [Implementing Security-First Serverless Architecture](https://medium.com/@your-handle)
+- 🚀 [Building a Serverless Travel Inquiry System with AWS CDK](https://medium.com/@pradhanmesh88)
+- ⚡ [AWS CDK Best Practices for Production Workloads](https://medium.com/@pradhanmesh88)
+- 🔒 [Implementing Security-First Serverless Architecture](https://medium.com/@pradhanmesh88)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 Achievements & Certifications
@@ -102,7 +102,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-pradhan-b99707276)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pradhanmesh88)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
