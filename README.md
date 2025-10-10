@@ -14,7 +14,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 - 🌱 Learning: **Advanced AWS services and cloud-native patterns**
 - 👯 Looking to collaborate on: **Open source cloud infrastructure projects**
 - 💬 Ask me about: **AWS, CDK, Serverless, TypeScript, DevOps**
-- 📫 How to reach me: **ramesh.pradhan@example.com** | **https://www.linkedin.com/in/ramesh-pradhan-b99707276**
+- 📫 How to reach me: **pradhanmesh88@gmail.com** | **https://www.linkedin.com/in/ramesh-pradhan-b99707276**
 - ⚡ Fun fact: **I love automating everything with code!**
 
 ## 🛠️ Tech Stack
@@ -100,9 +100,8 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-pradhan-b99707276)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pradhanmesh88)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhanmesh88@gmail.com)
 
 </div>
 
