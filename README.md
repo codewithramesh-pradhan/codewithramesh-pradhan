@@ -14,7 +14,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 - 🌱 Learning: **Advanced AWS services and cloud-native patterns**
 - 👯 Looking to collaborate on: **Open source cloud infrastructure projects**
 - 💬 Ask me about: **AWS, CDK, Serverless, TypeScript, DevOps**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
+- 📫 How to reach me: **ramesh.pradhan@example.com** | **[LinkedIn Profile]**
 - ⚡ Fun fact: **I love automating everything with code!**
 
 ## 🛠️ Tech Stack
