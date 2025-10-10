@@ -107,6 +107,7 @@ I'm a passionate **Cloud Solutions Architect** specializing in **AWS serverless 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🏥 [Building a HIPAA-Compliant Healthcare API with AWS CDK: A Complete Guide](https://medium.com/@pradhanmesh88/building-a-hipaa-compliant-healthcare-api-with-aws-cdk-a-complete-guide-25bd9e9d7b92)
 - 🚀 [Travel Inquiry System Architecture](https://medium.com/@pradhanmesh88/travel-inquiry-system-architecture-ba27610632ad)
 - 📝 [Visit my Medium profile for more articles](https://medium.com/@pradhanmesh88)
 <!-- BLOG-POST-LIST:END -->
