@@ -53,13 +53,17 @@ Enterprise IAM security implementation — role-based access control across 4 gr
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithramesh-pradhan&show_icons=true&theme=react&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithramesh-pradhan&layout=compact&theme=react&hide_border=true" height="165" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithramesh-pradhan&show_icons=true&theme=react&hide_border=true&count_private=true" height="165" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithramesh-pradhan&layout=compact&theme=react&hide_border=true" height="165" />
+  </picture>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=codewithramesh-pradhan&theme=react&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithramesh-pradhan&theme=react-dark&hide_border=true)](https://github.com/codewithramesh-pradhan)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithramesh-pradhan&theme=react-dark&hide_border=true&area=true)](https://github.com/codewithramesh-pradhan)
 
 ---
 
