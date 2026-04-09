@@ -1,5 +1,9 @@
 # Hi, I'm Ramesh Pradhan 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=codewithramesh-pradhan&color=1a73e8&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/codewithramesh-pradhan?label=Followers&style=flat-square&color=1a73e8)](https://github.com/codewithramesh-pradhan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/codewithramesh-pradhan?label=Total+Stars&style=flat-square&color=1a73e8)](https://github.com/codewithramesh-pradhan)
+
 **Cloud & DevOps Engineer** — I design, build, and maintain infrastructure on AWS. I work with containers, automate everything I can, and document what I learn.
 
 🔗 **[Portfolio](https://codewithramesh-pradhan.github.io/portfolio-site/)** · **[LinkedIn](https://www.linkedin.com/in/ramesh-pradhan-b99707276)** · **[Medium](https://medium.com/@pradhanmesh88)** · **[Email](mailto:pradhanmesh88@gmail.com)**
@@ -48,8 +52,22 @@ Enterprise IAM security implementation — role-based access control across 4 gr
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=codewithramesh-pradhan&theme=react)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithramesh-pradhan&show_icons=true&theme=react&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithramesh-pradhan&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codewithramesh-pradhan&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithramesh-pradhan&theme=react-dark&hide_border=true)](https://github.com/codewithramesh-pradhan)
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramesh-pradhan-b99707276"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@pradhanmesh88"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:pradhanmesh88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://codewithramesh-pradhan.github.io/portfolio-site/"><img src="https://img.shields.io/badge/Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 📄 **[View my full portfolio and project documentation →](https://codewithramesh-pradhan.github.io/portfolio-site/)**
